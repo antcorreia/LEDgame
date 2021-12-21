@@ -1,2 +1,2 @@
-# LEDgame
-My first ever coding project in University. A simple game about turning all of the LEDs ON by clicking on a button with the right timing.
+![PAGE1\_PROJECT](https://i.imgur.com/SMH3tC9.png)
+![PAGE2\_PROJECT](https://i.imgur.com/8XtdeWZ.png)
